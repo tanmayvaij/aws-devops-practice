@@ -41,7 +41,7 @@ This repository includes documentation on the following AWS services:
 We welcome contributions! If you have additional AWS service demos or improvements to existing documentation:
 
 1. Fork this repository.
-2. Add your PDF files to the appropriate folder.
+2. Add your PDF files with appropriate content to the appropriate location.
 3. Submit a pull request with a brief description of your addition.
 
 ## License

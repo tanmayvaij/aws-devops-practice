@@ -18,12 +18,13 @@ This repository serves as a reference and learning hub for DevOps practices with
 
 | No. | Demonstrations                                                        | PDF Link                                                                                                               |
 | --- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 1   | Setuping AWS Load Balancer                                            | [View](./AWS%20Load%20Balancer.pdf)                                                                                    |
-| 2   | Using Application Load Balancer with Auto Scaling Group               | [View](./Application%20Load%20Balancer%20with%20Auto%20Scaling%20Group.pdf)                                            |
-| 3   | Finding vulnerabilities on EC2 instance using Amazon Inspector        | [View](./Finding%20vulnerabilities%20on%20EC2%20instance%20using%20Amazon%20Inspector.pdf)                             |
-| 4   | IAM Users, Group, AWS Managed Policy Granular Access                  | [View](./IAM%20Users,%20Group,%20AWS%20Managed%20Policy%20Granular%20Access.pdf)                                       |
-| 5   | Installing Docker on EC2 machine and performing life cycle operations | [View](./Installing%20docker%20on%20ec2%20machine%20and%20performing%20life%20cycle%20operations.pdf)                  |
-| 6   | Create a docker image and push it to docker hub                       | [View](<./Create%20a%20docker%20image%20and%20push%20it%20to%20the%20docker%20hub%20(%20public%20repository%20)..pdf>) |
+| 1   | Starting AWS EC2 instance                                           | [View](./Starting%20AWS%20EC2%20instance.pdf)                                                                                    |
+| 2   | Setuping AWS Load Balancer                                            | [View](./AWS%20Load%20Balancer.pdf)                                                                                    |
+| 3   | Using Application Load Balancer with Auto Scaling Group               | [View](./Application%20Load%20Balancer%20with%20Auto%20Scaling%20Group.pdf)                                            |
+| 4   | Finding vulnerabilities on EC2 instance using Amazon Inspector        | [View](./Finding%20vulnerabilities%20on%20EC2%20instance%20using%20Amazon%20Inspector.pdf)                             |
+| 5   | IAM Users, Group, AWS Managed Policy Granular Access                  | [View](./IAM%20Users,%20Group,%20AWS%20Managed%20Policy%20Granular%20Access.pdf)                                       |
+| 6   | Installing Docker on EC2 machine and performing life cycle operations | [View](./Installing%20docker%20on%20ec2%20machine%20and%20performing%20life%20cycle%20operations.pdf)                  |
+| 7   | Create a docker image and push it to docker hub                       | [View](<./Create%20a%20docker%20image%20and%20push%20it%20to%20the%20docker%20hub%20(%20public%20repository%20)..pdf>) |
 
 ## AWS Services Covered
 

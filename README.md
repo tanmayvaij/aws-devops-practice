@@ -39,8 +39,6 @@ This repository includes documentation on the following AWS services:
 - **RDS**: Managed relational databases
 - **IAM**: Security and access control best practices
 
-... and more.
-
 ## Contributing
 
 We welcome contributions! If you have additional AWS service demos or improvements to existing documentation:

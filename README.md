@@ -23,11 +23,12 @@ This repository serves as a reference and learning hub for DevOps practices with
 | 3   | Using Application Load Balancer with Auto Scaling Group                                | [View](./Application%20Load%20Balancer%20with%20Auto%20Scaling%20Group.pdf)                                              |
 | 4   | Finding vulnerabilities on EC2 instance using Amazon Inspector                         | [View](./Finding%20vulnerabilities%20on%20EC2%20instance%20using%20Amazon%20Inspector.pdf)                               |
 | 5   | IAM Users, Group, AWS Managed Policy Granular Access                                   | [View](./IAM%20Users,%20Group,%20AWS%20Managed%20Policy%20Granular%20Access.pdf)                                         |
-| 6   | Installing Docker on EC2 machine and performing life cycle operations                  | [View](./Installing%20docker%20on%20ec2%20machine%20and%20performing%20life%20cycle%20operations.pdf)                    |
-| 7   | Create a docker image and push it to docker hub                                        | [View](<./Create%20a%20docker%20image%20and%20push%20it%20to%20the%20docker%20hub%20(%20public%20repository%20).pdf>)    |
-| 8   | Create a private registry and push any image in that private registry                  | [View](./Create%20a%20private%20registry%20and%20push%20any%20image%20in%20that%20private%20registry.pdf)                |
-| 9   | Implementing AWS ECS and Fargate for deploying and managing containerized applications | [View](./Implementing%20AWS%20ECS%20and%20Fargate%20for%20deploying%20and%20managing%20containerized%20applications.pdf) |
-| 10  | Create and run multi-container applications using Docker Compose                       | [View](./Create%20and%20run%20multi-container%20applications%20using%20Docker%20Compose.pdf)                             |
+| 6   | Basic Docker Commands                                                                  | [View](./Basic%20Docker%20Commands.pdf)                                                                                  |
+| 7   | Installing Docker on EC2 machine and performing life cycle operations                  | [View](./Installing%20docker%20on%20ec2%20machine%20and%20performing%20life%20cycle%20operations.pdf)                    |
+| 8   | Create a docker image and push it to docker hub                                        | [View](<./Create%20a%20docker%20image%20and%20push%20it%20to%20the%20docker%20hub%20(%20public%20repository%20).pdf>)    |
+| 9   | Create a private registry and push any image in that private registry                  | [View](./Create%20a%20private%20registry%20and%20push%20any%20image%20in%20that%20private%20registry.pdf)                |
+| 10   | Implementing AWS ECS and Fargate for deploying and managing containerized applications | [View](./Implementing%20AWS%20ECS%20and%20Fargate%20for%20deploying%20and%20managing%20containerized%20applications.pdf) |
+| 11  | Create and run multi-container applications using Docker Compose                       | [View](./Create%20and%20run%20multi-container%20applications%20using%20Docker%20Compose.pdf)                             |
 
 ## AWS Services Covered
 
